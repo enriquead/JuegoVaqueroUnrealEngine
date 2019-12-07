@@ -852,3 +852,128 @@ please set the "Use T0 as ref pose" option or add them to the bind pose and reim
 [2019.12.07-18.22.57:551][257]LogSavePackage: Save=69.37ms
 [2019.12.07-18.22.57:551][257]LogSavePackage: Moving '../../../../../../Users/Enrique/OneDrive - Universidad de Oviedo/4º Informatica/Videojuegos/Unreal Projects/JuegoVaquero/Saved/nivel1E7BF36884E1BC28A07DFF2A994A3375E.tmp' to '../../../../../../Users/Enrique/OneDrive - Universidad de Oviedo/4º Informatica/Videojuegos/Unreal Projects/JuegoVaquero/Content/nivel1.umap'
 [2019.12.07-18.22.57:562][257]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Enrique/OneDrive - Universidad de Oviedo/4º Informatica/Videojuegos/Unreal Projects/JuegoVaquero/Content/nivel1.umap
+[2019.12.07-18.30.07:163][477]LogSavePackage: Save=21.57ms
+[2019.12.07-18.30.07:163][477]LogSavePackage: Moving '../../../../../../Users/Enrique/OneDrive - Universidad de Oviedo/4º Informatica/Videojuegos/Unreal Projects/JuegoVaquero/Saved/Idle_Anim1BF896664A614844F09379B3BB5F81DE.tmp' to '../../../../../../Users/Enrique/OneDrive - Universidad de Oviedo/4º Informatica/Videojuegos/Unreal Projects/JuegoVaquero/Content/StarterContent/Jugador/graficos/Idle_Anim.uasset'
+[2019.12.07-18.30.07:171][477]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Enrique/OneDrive - Universidad de Oviedo/4º Informatica/Videojuegos/Unreal Projects/JuegoVaquero/Content/StarterContent/Jugador/graficos/Idle_Anim.uasset
+[2019.12.07-18.30.07:190][477]LogSavePackage: Save=7.83ms
+[2019.12.07-18.30.07:190][477]LogSavePackage: Moving '../../../../../../Users/Enrique/OneDrive - Universidad de Oviedo/4º Informatica/Videojuegos/Unreal Projects/JuegoVaquero/Saved/Idle_PhysicsAsset3E98A78849F08B219A5384B665D1D0D5.tmp' to '../../../../../../Users/Enrique/OneDrive - Universidad de Oviedo/4º Informatica/Videojuegos/Unreal Projects/JuegoVaquero/Content/StarterContent/Jugador/graficos/Idle_PhysicsAsset.uasset'
+[2019.12.07-18.30.07:198][477]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Enrique/OneDrive - Universidad de Oviedo/4º Informatica/Videojuegos/Unreal Projects/JuegoVaquero/Content/StarterContent/Jugador/graficos/Idle_PhysicsAsset.uasset
+[2019.12.07-18.30.07:213][477]LogSavePackage: Save=4.80ms
+[2019.12.07-18.30.07:213][477]LogSavePackage: Moving '../../../../../../Users/Enrique/OneDrive - Universidad de Oviedo/4º Informatica/Videojuegos/Unreal Projects/JuegoVaquero/Saved/jugador_esqueletoAF0C46FF401F2E797ED1CCAC51E6EC1D.tmp' to '../../../../../../Users/Enrique/OneDrive - Universidad de Oviedo/4º Informatica/Videojuegos/Unreal Projects/JuegoVaquero/Content/StarterContent/Jugador/graficos/jugador_esqueleto.uasset'
+[2019.12.07-18.30.07:223][477]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Enrique/OneDrive - Universidad de Oviedo/4º Informatica/Videojuegos/Unreal Projects/JuegoVaquero/Content/StarterContent/Jugador/graficos/jugador_esqueleto.uasset
+[2019.12.07-18.30.07:303][477]LogSavePackage: Save=23.65ms
+[2019.12.07-18.30.07:303][477]LogSavePackage: Moving '../../../../../../Users/Enrique/OneDrive - Universidad de Oviedo/4º Informatica/Videojuegos/Unreal Projects/JuegoVaquero/Saved/jugador_malla3DDDB97543ED704B490333A62EC4484A.tmp' to '../../../../../../Users/Enrique/OneDrive - Universidad de Oviedo/4º Informatica/Videojuegos/Unreal Projects/JuegoVaquero/Content/StarterContent/Jugador/graficos/jugador_malla.uasset'
+[2019.12.07-18.30.07:312][477]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Enrique/OneDrive - Universidad de Oviedo/4º Informatica/Videojuegos/Unreal Projects/JuegoVaquero/Content/StarterContent/Jugador/graficos/jugador_malla.uasset
+[2019.12.07-18.30.07:420][477]LogSavePackage: Save=24.23ms
+[2019.12.07-18.30.07:420][477]LogSavePackage: Moving '../../../../../../Users/Enrique/OneDrive - Universidad de Oviedo/4º Informatica/Videojuegos/Unreal Projects/JuegoVaquero/Saved/Run_Backward3B0CBC7F46C015808943858D8A648D09.tmp' to '../../../../../../Users/Enrique/OneDrive - Universidad de Oviedo/4º Informatica/Videojuegos/Unreal Projects/JuegoVaquero/Content/StarterContent/Jugador/graficos/Run_Backward.uasset'
+[2019.12.07-18.30.07:445][477]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Enrique/OneDrive - Universidad de Oviedo/4º Informatica/Videojuegos/Unreal Projects/JuegoVaquero/Content/StarterContent/Jugador/graficos/Run_Backward.uasset
+[2019.12.07-18.30.07:534][477]LogSavePackage: Save=35.60ms
+[2019.12.07-18.30.07:534][477]LogSavePackage: Moving '../../../../../../Users/Enrique/OneDrive - Universidad de Oviedo/4º Informatica/Videojuegos/Unreal Projects/JuegoVaquero/Saved/Run_LeftCC2060DF4520F2D8D406009120335C49.tmp' to '../../../../../../Users/Enrique/OneDrive - Universidad de Oviedo/4º Informatica/Videojuegos/Unreal Projects/JuegoVaquero/Content/StarterContent/Jugador/graficos/Run_Left.uasset'
+[2019.12.07-18.30.07:542][477]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Enrique/OneDrive - Universidad de Oviedo/4º Informatica/Videojuegos/Unreal Projects/JuegoVaquero/Content/StarterContent/Jugador/graficos/Run_Left.uasset
+[2019.12.07-18.30.07:616][477]LogSavePackage: Save=19.87ms
+[2019.12.07-18.30.07:616][477]LogSavePackage: Moving '../../../../../../Users/Enrique/OneDrive - Universidad de Oviedo/4º Informatica/Videojuegos/Unreal Projects/JuegoVaquero/Saved/Run_Forward0D4AC9D04C49B5738D55C390D704CF91.tmp' to '../../../../../../Users/Enrique/OneDrive - Universidad de Oviedo/4º Informatica/Videojuegos/Unreal Projects/JuegoVaquero/Content/StarterContent/Jugador/graficos/Run_Forward.uasset'
+[2019.12.07-18.30.07:624][477]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Enrique/OneDrive - Universidad de Oviedo/4º Informatica/Videojuegos/Unreal Projects/JuegoVaquero/Content/StarterContent/Jugador/graficos/Run_Forward.uasset
+[2019.12.07-18.30.07:698][477]LogSavePackage: Save=20.00ms
+[2019.12.07-18.30.07:698][477]LogSavePackage: Moving '../../../../../../Users/Enrique/OneDrive - Universidad de Oviedo/4º Informatica/Videojuegos/Unreal Projects/JuegoVaquero/Saved/Run_RightBE1378D845272D559FEB808029AF7970.tmp' to '../../../../../../Users/Enrique/OneDrive - Universidad de Oviedo/4º Informatica/Videojuegos/Unreal Projects/JuegoVaquero/Content/StarterContent/Jugador/graficos/Run_Right.uasset'
+[2019.12.07-18.30.07:707][477]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Enrique/OneDrive - Universidad de Oviedo/4º Informatica/Videojuegos/Unreal Projects/JuegoVaquero/Content/StarterContent/Jugador/graficos/Run_Right.uasset
+[2019.12.07-18.30.07:725][477]LogSavePackage: Save=5.28ms
+[2019.12.07-18.30.07:725][477]LogSavePackage: Moving '../../../../../../Users/Enrique/OneDrive - Universidad de Oviedo/4º Informatica/Videojuegos/Unreal Projects/JuegoVaquero/Saved/TexturaMagicaVoxel98A7A995470C4E76EAF5D28F1811C5E0.tmp' to '../../../../../../Users/Enrique/OneDrive - Universidad de Oviedo/4º Informatica/Videojuegos/Unreal Projects/JuegoVaquero/Content/StarterContent/Jugador/graficos/TexturaMagicaVoxel.uasset'
+[2019.12.07-18.30.07:734][477]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Enrique/OneDrive - Universidad de Oviedo/4º Informatica/Videojuegos/Unreal Projects/JuegoVaquero/Content/StarterContent/Jugador/graficos/TexturaMagicaVoxel.uasset
+[2019.12.07-18.30.07:896][477]LogSavePackage: Save=88.81ms
+[2019.12.07-18.30.07:896][477]LogSavePackage: Moving '../../../../../../Users/Enrique/OneDrive - Universidad de Oviedo/4º Informatica/Videojuegos/Unreal Projects/JuegoVaquero/Saved/TexturaMagicaVoxel_MatC19855AB4AF4C7A997D0E48516FFE6C5.tmp' to '../../../../../../Users/Enrique/OneDrive - Universidad de Oviedo/4º Informatica/Videojuegos/Unreal Projects/JuegoVaquero/Content/StarterContent/Jugador/graficos/TexturaMagicaVoxel_Mat.uasset'
+[2019.12.07-18.30.07:904][477]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Enrique/OneDrive - Universidad de Oviedo/4º Informatica/Videojuegos/Unreal Projects/JuegoVaquero/Content/StarterContent/Jugador/graficos/TexturaMagicaVoxel_Mat.uasset
+[2019.12.07-18.31.33:248][202]LogMetaData: Removing '/Game/StarterContent/Jugador/Jugador.Jugador:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/StarterContent/Jugador/NewBlueprint.PackageMetaData'
+[2019.12.07-18.31.33:248][202]LogMetaData: Removing '/Game/StarterContent/Jugador/Jugador.SKEL_Jugador_C' ref from Metadata '/Game/StarterContent/Jugador/NewBlueprint.PackageMetaData'
+[2019.12.07-18.31.33:248][202]LogMetaData: Removing '/Game/StarterContent/Jugador/Jugador.Jugador_C' ref from Metadata '/Game/StarterContent/Jugador/NewBlueprint.PackageMetaData'
+[2019.12.07-18.31.33:248][202]LogMetaData: Removing '/Game/StarterContent/Jugador/Jugador.Jugador:EventGraph.K2Node_Event_0' ref from Metadata '/Game/StarterContent/Jugador/NewBlueprint.PackageMetaData'
+[2019.12.07-18.31.33:248][202]LogMetaData: Removing '/Game/StarterContent/Jugador/Jugador.Jugador:EventGraph.K2Node_Event_1' ref from Metadata '/Game/StarterContent/Jugador/NewBlueprint.PackageMetaData'
+[2019.12.07-18.31.33:248][202]LogMetaData: Removing '/Game/StarterContent/Jugador/Jugador.Jugador:EventGraph.K2Node_Event_2' ref from Metadata '/Game/StarterContent/Jugador/NewBlueprint.PackageMetaData'
+[2019.12.07-18.31.33:318][202]LogSavePackage: Save=47.49ms
+[2019.12.07-18.31.33:318][202]LogSavePackage: Moving '../../../../../../Users/Enrique/OneDrive - Universidad de Oviedo/4º Informatica/Videojuegos/Unreal Projects/JuegoVaquero/Saved/Jugador74DF36604E186508C35BF895EE7D42D0.tmp' to '../../../../../../Users/Enrique/OneDrive - Universidad de Oviedo/4º Informatica/Videojuegos/Unreal Projects/JuegoVaquero/Content/StarterContent/Jugador/Jugador.uasset'
+[2019.12.07-18.31.33:326][202]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Enrique/OneDrive - Universidad de Oviedo/4º Informatica/Videojuegos/Unreal Projects/JuegoVaquero/Content/StarterContent/Jugador/Jugador.uasset
+[2019.12.07-18.31.52:085][354]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0018 seconds. Added 112 classes and 0 folders.
+[2019.12.07-18.31.54:886][354]LogRenderer: Reallocating scene render targets to support 856x588 NumSamples 1 (Frame:1).
+[2019.12.07-18.33.55:456][786]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/nivel1' took 0.091
+[2019.12.07-18.33.55:460][786]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/StarterContent/Jugador/Jugador] ([1] browsable assets)...
+[2019.12.07-18.33.55:502][786]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/StarterContent/Jugador/Jugador.Jugador]
+[2019.12.07-18.33.55:502][786]OBJ SavePackage: Finished generating thumbnails for package [/Game/StarterContent/Jugador/Jugador]
+[2019.12.07-18.33.55:552][786]LogSavePackage: Save=40.05ms
+[2019.12.07-18.33.55:553][786]LogSavePackage: Moving '../../../../../../Users/Enrique/OneDrive - Universidad de Oviedo/4º Informatica/Videojuegos/Unreal Projects/JuegoVaquero/Saved/Jugador_Auto2E0EA8735494F62AF316EBA8FD9032739.tmp' to '../../../../../../Users/Enrique/OneDrive - Universidad de Oviedo/4º Informatica/Videojuegos/Unreal Projects/JuegoVaquero/Saved/Autosaves/Game/StarterContent/Jugador/Jugador_Auto2.uasset'
+[2019.12.07-18.33.55:556][786]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Enrique/OneDrive - Universidad de Oviedo/4º Informatica/Videojuegos/Unreal Projects/JuegoVaquero/Saved/Autosaves/Game/StarterContent/Jugador/Jugador_Auto2.uasset
+[2019.12.07-18.33.55:556][786]LogFileHelpers: Auto-saving content packages took 0.099
+[2019.12.07-18.38.09:986][205]BlueprintLog: New page: Compile Jugador
+[2019.12.07-18.38.11:082][230]LogSavePackage: Save=30.29ms
+[2019.12.07-18.38.11:082][230]LogSavePackage: Moving '../../../../../../Users/Enrique/OneDrive - Universidad de Oviedo/4º Informatica/Videojuegos/Unreal Projects/JuegoVaquero/Saved/JugadorA1802E554205892E52169CA1D42BA3AB.tmp' to '../../../../../../Users/Enrique/OneDrive - Universidad de Oviedo/4º Informatica/Videojuegos/Unreal Projects/JuegoVaquero/Content/StarterContent/Jugador/Jugador.uasset'
+[2019.12.07-18.38.11:091][230]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Enrique/OneDrive - Universidad de Oviedo/4º Informatica/Videojuegos/Unreal Projects/JuegoVaquero/Content/StarterContent/Jugador/Jugador.uasset
+[2019.12.07-18.40.00:899][280]LogMetaData: Removing '/Game/StarterContent/Jugador/MiModoDeJuego.MiModoDeJuego:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/StarterContent/Jugador/NewBlueprint.PackageMetaData'
+[2019.12.07-18.40.00:899][280]LogMetaData: Removing '/Game/StarterContent/Jugador/MiModoDeJuego.SKEL_MiModoDeJuego_C' ref from Metadata '/Game/StarterContent/Jugador/NewBlueprint.PackageMetaData'
+[2019.12.07-18.40.00:899][280]LogMetaData: Removing '/Game/StarterContent/Jugador/MiModoDeJuego.MiModoDeJuego_C' ref from Metadata '/Game/StarterContent/Jugador/NewBlueprint.PackageMetaData'
+[2019.12.07-18.40.00:899][280]LogMetaData: Removing '/Game/StarterContent/Jugador/MiModoDeJuego.MiModoDeJuego:EventGraph.K2Node_Event_0' ref from Metadata '/Game/StarterContent/Jugador/NewBlueprint.PackageMetaData'
+[2019.12.07-18.40.00:899][280]LogMetaData: Removing '/Game/StarterContent/Jugador/MiModoDeJuego.MiModoDeJuego:EventGraph.K2Node_Event_1' ref from Metadata '/Game/StarterContent/Jugador/NewBlueprint.PackageMetaData'
+[2019.12.07-18.40.00:929][280]LogSavePackage: Save=10.96ms
+[2019.12.07-18.40.00:929][280]LogSavePackage: Moving '../../../../../../Users/Enrique/OneDrive - Universidad de Oviedo/4º Informatica/Videojuegos/Unreal Projects/JuegoVaquero/Saved/MiModoDeJuego49F326854216E35D947551B1693FEB2C.tmp' to '../../../../../../Users/Enrique/OneDrive - Universidad de Oviedo/4º Informatica/Videojuegos/Unreal Projects/JuegoVaquero/Content/StarterContent/Jugador/MiModoDeJuego.uasset'
+[2019.12.07-18.40.00:936][280]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Enrique/OneDrive - Universidad de Oviedo/4º Informatica/Videojuegos/Unreal Projects/JuegoVaquero/Content/StarterContent/Jugador/MiModoDeJuego.uasset
+[2019.12.07-18.40.33:236][599]LogSlate:Warning: Prevented a slow task dialog from being summoned while a context menu was open
+[2019.12.07-18.40.40:704][913]BlueprintLog: New page: Compile MiModoDeJuego
+[2019.12.07-18.40.41:129][916]LogSavePackage: Save=18.68ms
+[2019.12.07-18.40.41:129][916]LogSavePackage: Moving '../../../../../../Users/Enrique/OneDrive - Universidad de Oviedo/4º Informatica/Videojuegos/Unreal Projects/JuegoVaquero/Saved/MiModoDeJuego1A8D36F649717623E5ECDFA100A6115D.tmp' to '../../../../../../Users/Enrique/OneDrive - Universidad de Oviedo/4º Informatica/Videojuegos/Unreal Projects/JuegoVaquero/Content/StarterContent/Jugador/MiModoDeJuego.uasset'
+[2019.12.07-18.40.41:139][916]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Enrique/OneDrive - Universidad de Oviedo/4º Informatica/Videojuegos/Unreal Projects/JuegoVaquero/Content/StarterContent/Jugador/MiModoDeJuego.uasset
+[2019.12.07-18.41.07:140][280]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2019.12.07-18.41.08:118][304]LogTemp: Executing iPhonePackager certificates Engine -bundlename com.YourCompany.JuegoVaquero
+[2019.12.07-18.41.08:118][304]LogTemp: CWD: C:\Program Files\Epic Games\UE_4.16\Engine\Binaries\DotNET\IOS
+[2019.12.07-18.41.08:118][304]LogTemp: Initial Dir: C:\Program Files\Epic Games\UE_4.16
+[2019.12.07-18.41.08:118][304]LogTemp: Env CWD: C:\Program Files\Epic Games\UE_4.16\Engine\Binaries\DotNET\IOS
+[2019.12.07-18.41.08:148][305]LogTemp: BranchPath = LAPTOP-DM9AJJCC/C/Program Files/Epic Games/UE_4.16/Engine/Binaries --- GameBranchPath = LAPTOP-DM9AJJCC/C/Program Files/Epic Games/UE_4.16/Engine/Binaries
+[2019.12.07-18.41.08:406][315]LogTemp: IPP ERROR: Could not find provision directory 'C:\Users\Enrique\AppData\Local/Apple Computer/MobileDevice/Provisioning Profiles/'.
+[2019.12.07-18.41.14:554][492]LogSlate:Warning: Prevented a slow task dialog from being summoned while a context menu was open
+[2019.12.07-18.41.39:850][ 52]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.12.07-18.41.40:019][ 52]PIE: New page: PIE session: nivel1 (Dec 7, 2019, 8:41:39 PM)
+[2019.12.07-18.41.40:025][ 52]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_nivel1
+[2019.12.07-18.41.40:096][ 52]LogPlayLevel: PIE: StaticDuplicateObject took: (0.070010s)
+[2019.12.07-18.41.40:097][ 52]LogAIModule: Creating AISystem for world nivel1
+[2019.12.07-18.41.40:126][ 52]LogPlayLevel: PIE: World Init took: (0.029993s)
+[2019.12.07-18.41.40:144][ 52]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/nivel1.nivel1 to /Game/UEDPIE_0_nivel1.nivel1 (0.117429s)
+[2019.12.07-18.41.40:265][ 52]LogInit: XAudio2 using 'Altavoces (Conexant SmartAudio HD)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.12.07-18.41.40:619][ 52]LogInit: FAudioDevice initialized.
+[2019.12.07-18.41.40:688][ 52]LogLoad: Game class is 'MiModoDeJuego_C'
+[2019.12.07-18.41.40:700][ 52]LogWorld: Bringing World /Game/UEDPIE_0_nivel1.nivel1 up for play (max tick rate 60) at 2019.12.07-19.41.40
+[2019.12.07-18.41.40:727][ 52]LogWorld: Bringing up level for play took: 0.010251
+[2019.12.07-18.41.41:071][ 52]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0009 seconds. Added 11 classes and 0 folders.
+[2019.12.07-18.41.41:211][ 52]PIE: Info Play in editor start time for /Game/UEDPIE_0_nivel1 1.45
+[2019.12.07-18.41.54:395][594]LogSlate: Took 0.157418 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2019.12.07-18.42.06:974][ 94]LogSavePackage: Save=57.96ms
+[2019.12.07-18.42.06:974][ 94]LogSavePackage: Moving '../../../../../../Users/Enrique/OneDrive - Universidad de Oviedo/4º Informatica/Videojuegos/Unreal Projects/JuegoVaquero/Saved/Jugador7F9777384A0284B1B527658D4BD94BBB.tmp' to '../../../../../../Users/Enrique/OneDrive - Universidad de Oviedo/4º Informatica/Videojuegos/Unreal Projects/JuegoVaquero/Content/StarterContent/Jugador/Jugador.uasset'
+[2019.12.07-18.42.06:982][ 94]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Enrique/OneDrive - Universidad de Oviedo/4º Informatica/Videojuegos/Unreal Projects/JuegoVaquero/Content/StarterContent/Jugador/Jugador.uasset
+[2019.12.07-18.42.09:057][176]LogTemp: Repeting last play command: Selected Viewport
+[2019.12.07-18.42.09:082][176]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.12.07-18.42.09:082][176]PIE: New page: PIE session: nivel1 (Dec 7, 2019, 8:42:09 PM)
+[2019.12.07-18.42.09:082][176]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_nivel1
+[2019.12.07-18.42.09:091][176]LogPlayLevel: PIE: StaticDuplicateObject took: (0.009533s)
+[2019.12.07-18.42.09:092][176]LogAIModule: Creating AISystem for world nivel1
+[2019.12.07-18.42.09:093][176]LogPlayLevel: PIE: World Init took: (0.001529s)
+[2019.12.07-18.42.09:094][176]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/nivel1.nivel1 to /Game/UEDPIE_0_nivel1.nivel1 (0.011719s)
+[2019.12.07-18.42.09:136][176]LogInit: XAudio2 using 'Altavoces (Conexant SmartAudio HD)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.12.07-18.42.09:158][176]LogInit: FAudioDevice initialized.
+[2019.12.07-18.42.09:195][176]LogLoad: Game class is 'MiModoDeJuego_C'
+[2019.12.07-18.42.09:197][176]LogWorld: Bringing World /Game/UEDPIE_0_nivel1.nivel1 up for play (max tick rate 60) at 2019.12.07-19.42.09
+[2019.12.07-18.42.09:197][176]LogWorld: Bringing up level for play took: 0.000883
+[2019.12.07-18.42.09:199][176]PIE: Info Play in editor start time for /Game/UEDPIE_0_nivel1 -0.546
+[2019.12.07-18.43.16:111][599]LogSavePackage: Save=28.30ms
+[2019.12.07-18.43.16:111][599]LogSavePackage: Moving '../../../../../../Users/Enrique/OneDrive - Universidad de Oviedo/4º Informatica/Videojuegos/Unreal Projects/JuegoVaquero/Saved/JugadorB5C86203484631943A3BE0875352FCF5.tmp' to '../../../../../../Users/Enrique/OneDrive - Universidad de Oviedo/4º Informatica/Videojuegos/Unreal Projects/JuegoVaquero/Content/StarterContent/Jugador/Jugador.uasset'
+[2019.12.07-18.43.16:119][599]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Enrique/OneDrive - Universidad de Oviedo/4º Informatica/Videojuegos/Unreal Projects/JuegoVaquero/Content/StarterContent/Jugador/Jugador.uasset
+[2019.12.07-18.43.45:242][924]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2019.12.07-18.43.45:574][937]LogTemp: Executing iPhonePackager certificates Engine -bundlename com.YourCompany.JuegoVaquero
+[2019.12.07-18.43.45:574][937]LogTemp: CWD: C:\Program Files\Epic Games\UE_4.16\Engine\Binaries\DotNET\IOS
+[2019.12.07-18.43.45:574][937]LogTemp: Initial Dir: C:\Program Files\Epic Games\UE_4.16
+[2019.12.07-18.43.45:574][937]LogTemp: Env CWD: C:\Program Files\Epic Games\UE_4.16\Engine\Binaries\DotNET\IOS
+[2019.12.07-18.43.45:593][938]LogTemp: BranchPath = LAPTOP-DM9AJJCC/C/Program Files/Epic Games/UE_4.16/Engine/Binaries --- GameBranchPath = LAPTOP-DM9AJJCC/C/Program Files/Epic Games/UE_4.16/Engine/Binaries
+[2019.12.07-18.43.45:700][942]LogTemp: IPP ERROR: Could not find provision directory 'C:\Users\Enrique\AppData\Local/Apple Computer/MobileDevice/Provisioning Profiles/'.
+[2019.12.07-18.53.17:619][299]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/nivel1' took 0.040
+[2019.12.07-18.53.17:623][299]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/StarterContent/Jugador/Jugador] ([1] browsable assets)...
+[2019.12.07-18.53.17:662][299]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/StarterContent/Jugador/Jugador.Jugador]
+[2019.12.07-18.53.17:662][299]OBJ SavePackage: Finished generating thumbnails for package [/Game/StarterContent/Jugador/Jugador]
+[2019.12.07-18.53.17:714][299]LogSavePackage: Save=42.21ms
+[2019.12.07-18.53.17:714][299]LogSavePackage: Moving '../../../../../../Users/Enrique/OneDrive - Universidad de Oviedo/4º Informatica/Videojuegos/Unreal Projects/JuegoVaquero/Saved/Jugador_Auto3803E5AAF40D56990B7B16189C89DD203.tmp' to '../../../../../../Users/Enrique/OneDrive - Universidad de Oviedo/4º Informatica/Videojuegos/Unreal Projects/JuegoVaquero/Saved/Autosaves/Game/StarterContent/Jugador/Jugador_Auto3.uasset'
+[2019.12.07-18.53.17:719][299]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Enrique/OneDrive - Universidad de Oviedo/4º Informatica/Videojuegos/Unreal Projects/JuegoVaquero/Saved/Autosaves/Game/StarterContent/Jugador/Jugador_Auto3.uasset
+[2019.12.07-18.53.17:719][299]LogFileHelpers: Auto-saving content packages took 0.098
+[2019.12.07-18.55.23:268][362]LogEditorTransaction: Undo Add Node
