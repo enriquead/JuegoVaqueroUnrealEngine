@@ -977,3 +977,36 @@ please set the "Use T0 as ref pose" option or add them to the bind pose and reim
 [2019.12.07-18.53.17:719][299]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Enrique/OneDrive - Universidad de Oviedo/4º Informatica/Videojuegos/Unreal Projects/JuegoVaquero/Saved/Autosaves/Game/StarterContent/Jugador/Jugador_Auto3.uasset
 [2019.12.07-18.53.17:719][299]LogFileHelpers: Auto-saving content packages took 0.098
 [2019.12.07-18.55.23:268][362]LogEditorTransaction: Undo Add Node
+[2019.12.07-18.55.52:625][762]BlueprintLog: New page: Compile Jugador
+[2019.12.07-18.55.53:942][804]LogSavePackage: Save=42.11ms
+[2019.12.07-18.55.53:942][804]LogSavePackage: Moving '../../../../../../Users/Enrique/OneDrive - Universidad de Oviedo/4º Informatica/Videojuegos/Unreal Projects/JuegoVaquero/Saved/JugadorD484FCD7489117AD9A603BAB83013548.tmp' to '../../../../../../Users/Enrique/OneDrive - Universidad de Oviedo/4º Informatica/Videojuegos/Unreal Projects/JuegoVaquero/Content/StarterContent/Jugador/Jugador.uasset'
+[2019.12.07-18.55.53:950][804]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Enrique/OneDrive - Universidad de Oviedo/4º Informatica/Videojuegos/Unreal Projects/JuegoVaquero/Content/StarterContent/Jugador/Jugador.uasset
+[2019.12.07-18.55.55:769][892]LogTemp: Repeting last play command: Selected Viewport
+[2019.12.07-18.55.55:795][892]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.12.07-18.55.55:795][892]PIE: New page: PIE session: nivel1 (Dec 7, 2019, 8:55:55 PM)
+[2019.12.07-18.55.55:795][892]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_nivel1
+[2019.12.07-18.55.55:805][892]LogPlayLevel: PIE: StaticDuplicateObject took: (0.009436s)
+[2019.12.07-18.55.55:806][892]LogAIModule: Creating AISystem for world nivel1
+[2019.12.07-18.55.55:806][892]LogPlayLevel: PIE: World Init took: (0.001200s)
+[2019.12.07-18.55.55:806][892]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/nivel1.nivel1 to /Game/UEDPIE_0_nivel1.nivel1 (0.010917s)
+[2019.12.07-18.55.55:852][892]LogInit: XAudio2 using 'Altavoces (Conexant SmartAudio HD)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.12.07-18.55.55:875][892]LogInit: FAudioDevice initialized.
+[2019.12.07-18.55.55:906][892]LogLoad: Game class is 'MiModoDeJuego_C'
+[2019.12.07-18.55.55:907][892]LogWorld: Bringing World /Game/UEDPIE_0_nivel1.nivel1 up for play (max tick rate 60) at 2019.12.07-19.55.55
+[2019.12.07-18.55.55:908][892]LogWorld: Bringing up level for play took: 0.000815
+[2019.12.07-18.55.55:930][892]PIE: Info Play in editor start time for /Game/UEDPIE_0_nivel1 0.184
+[2019.12.07-18.58.44:881][174]LogSlate: Took 0.026204 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2019.12.07-19.03.45:821][200]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/nivel1' took 0.042
+[2019.12.07-19.03.45:825][200]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/StarterContent/Jugador/Jugador] ([1] browsable assets)...
+[2019.12.07-19.03.45:854][200]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/StarterContent/Jugador/Jugador.Jugador]
+[2019.12.07-19.03.45:854][200]OBJ SavePackage: Finished generating thumbnails for package [/Game/StarterContent/Jugador/Jugador]
+[2019.12.07-19.03.45:949][200]LogSavePackage: Save=58.19ms
+[2019.12.07-19.03.45:949][200]LogSavePackage: Moving '../../../../../../Users/Enrique/OneDrive - Universidad de Oviedo/4º Informatica/Videojuegos/Unreal Projects/JuegoVaquero/Saved/Jugador_Auto47A8D978B49EEFF2199B373B0EAAB1634.tmp' to '../../../../../../Users/Enrique/OneDrive - Universidad de Oviedo/4º Informatica/Videojuegos/Unreal Projects/JuegoVaquero/Saved/Autosaves/Game/StarterContent/Jugador/Jugador_Auto4.uasset'
+[2019.12.07-19.03.45:953][200]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Enrique/OneDrive - Universidad de Oviedo/4º Informatica/Videojuegos/Unreal Projects/JuegoVaquero/Saved/Autosaves/Game/StarterContent/Jugador/Jugador_Auto4.uasset
+[2019.12.07-19.03.45:953][200]LogFileHelpers: Auto-saving content packages took 0.131
+[2019.12.07-19.08.10:578][690]LogHttp:Warning: 00000248CC233A00: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2019.12.07-19.08.10:578][690]LogHttp:Warning: 00000248CC233A00: libcurl info message cache 0 (Connection 31 seems to be dead!)
+[2019.12.07-19.08.10:578][690]LogHttp:Warning: 00000248CC233A00: libcurl info message cache 1 (Closing connection 31)
+[2019.12.07-19.08.10:578][690]LogHttp:Warning: 00000248CC233A00: libcurl info message cache 2 (TLSv1.2 (OUT), TLS alert, Client hello (1):)
+[2019.12.07-19.08.10:578][690]LogHttp:Warning: 00000248CC233A00: libcurl info message cache 3 (Could not resolve host: datarouter.ol.epicgames.com)
+[2019.12.07-19.08.10:578][690]LogHttp:Warning: 00000248CC233A00: libcurl info message cache 4 (Closing connection 32)
