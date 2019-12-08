@@ -12915,3 +12915,380 @@ LogInit: Object subsystem initialized
 [2019.12.08-15.29.14:267][154]LogWorld: Bringing World /Game/UEDPIE_0_nivel1.nivel1 up for play (max tick rate 60) at 2019.12.08-16.29.14
 [2019.12.08-15.29.14:268][154]LogWorld: Bringing up level for play took: 0.002546
 [2019.12.08-15.29.14:273][154]LogLoad: Took 0.249609 seconds to LoadMap(/Game/UEDPIE_0_nivel1)
+[2019.12.08-15.35.40:713][182]LogSavePackage: Save=82.46ms
+[2019.12.08-15.35.40:713][182]LogSavePackage: Moving '../../../../../../Users/Enrique/OneDrive - Universidad de Oviedo/4º Informatica/Videojuegos/Unreal Projects/JuegoVaquero/Saved/nivel1985A4C7248A571D144EA15A84657C859.tmp' to '../../../../../../Users/Enrique/OneDrive - Universidad de Oviedo/4º Informatica/Videojuegos/Unreal Projects/JuegoVaquero/Content/nivel1.umap'
+[2019.12.08-15.35.40:720][182]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Enrique/OneDrive - Universidad de Oviedo/4º Informatica/Videojuegos/Unreal Projects/JuegoVaquero/Content/nivel1.umap
+[2019.12.08-15.35.59:749][465]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2019.12.08-15.36.00:731][492]LogTemp: Executing iPhonePackager certificates Engine -bundlename com.YourCompany.JuegoVaquero
+[2019.12.08-15.36.00:764][494]LogTemp: CWD: C:\Program Files\Epic Games\UE_4.16\Engine\Binaries\DotNET\IOS
+[2019.12.08-15.36.00:764][494]LogTemp: Initial Dir: C:\Program Files\Epic Games\UE_4.16
+[2019.12.08-15.36.00:764][494]LogTemp: Env CWD: C:\Program Files\Epic Games\UE_4.16\Engine\Binaries\DotNET\IOS
+[2019.12.08-15.36.00:814][497]LogTemp: BranchPath = LAPTOP-DM9AJJCC/C/Program Files/Epic Games/UE_4.16/Engine/Binaries --- GameBranchPath = LAPTOP-DM9AJJCC/C/Program Files/Epic Games/UE_4.16/Engine/Binaries
+[2019.12.08-15.36.01:082][513]LogTemp: IPP ERROR: Could not find provision directory 'C:\Users\Enrique\AppData\Local/Apple Computer/MobileDevice/Provisioning Profiles/'.
+[2019.12.08-15.39.11:210][ 70]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2019.12.08-15.39.11:360][ 77]LogTemp: Executing iPhonePackager certificates Engine -bundlename com.YourCompany.JuegoVaquero
+[2019.12.08-15.39.11:360][ 77]LogTemp: CWD: C:\Program Files\Epic Games\UE_4.16\Engine\Binaries\DotNET\IOS
+[2019.12.08-15.39.11:360][ 77]LogTemp: Initial Dir: C:\Program Files\Epic Games\UE_4.16
+[2019.12.08-15.39.11:360][ 77]LogTemp: Env CWD: C:\Program Files\Epic Games\UE_4.16\Engine\Binaries\DotNET\IOS
+[2019.12.08-15.39.11:360][ 77]LogTemp: BranchPath = LAPTOP-DM9AJJCC/C/Program Files/Epic Games/UE_4.16/Engine/Binaries --- GameBranchPath = LAPTOP-DM9AJJCC/C/Program Files/Epic Games/UE_4.16/Engine/Binaries
+[2019.12.08-15.39.11:393][ 79]LogTemp: IPP ERROR: Could not find provision directory 'C:\Users\Enrique\AppData\Local/Apple Computer/MobileDevice/Provisioning Profiles/'.
+[2019.12.08-15.40.15:294][358]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2019.12.08-15.40.15:457][366]LogTemp: Executing iPhonePackager certificates Engine -bundlename com.YourCompany.JuegoVaquero
+[2019.12.08-15.40.15:457][366]LogTemp: CWD: C:\Program Files\Epic Games\UE_4.16\Engine\Binaries\DotNET\IOS
+[2019.12.08-15.40.15:457][366]LogTemp: Initial Dir: C:\Program Files\Epic Games\UE_4.16
+[2019.12.08-15.40.15:457][366]LogTemp: Env CWD: C:\Program Files\Epic Games\UE_4.16\Engine\Binaries\DotNET\IOS
+[2019.12.08-15.40.15:457][366]LogTemp: BranchPath = LAPTOP-DM9AJJCC/C/Program Files/Epic Games/UE_4.16/Engine/Binaries --- GameBranchPath = LAPTOP-DM9AJJCC/C/Program Files/Epic Games/UE_4.16/Engine/Binaries
+[2019.12.08-15.40.15:492][368]LogTemp: IPP ERROR: Could not find provision directory 'C:\Users\Enrique\AppData\Local/Apple Computer/MobileDevice/Provisioning Profiles/'.
+[2019.12.08-15.42.18:537][652]LogSavePackage: Save=136.19ms
+[2019.12.08-15.42.18:537][652]LogSavePackage: Moving '../../../../../../Users/Enrique/OneDrive - Universidad de Oviedo/4º Informatica/Videojuegos/Unreal Projects/JuegoVaquero/Saved/JugadorED67F973431DA6A2695A0D93157BFCDA.tmp' to '../../../../../../Users/Enrique/OneDrive - Universidad de Oviedo/4º Informatica/Videojuegos/Unreal Projects/JuegoVaquero/Content/StarterContent/Jugador/Jugador.uasset'
+[2019.12.08-15.42.18:545][652]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Enrique/OneDrive - Universidad de Oviedo/4º Informatica/Videojuegos/Unreal Projects/JuegoVaquero/Content/StarterContent/Jugador/Jugador.uasset
+[2019.12.08-15.42.19:375][701]LogTemp: Repeting last play command: Selected Viewport
+[2019.12.08-15.42.19:442][701]BlueprintLog: New page: Pre-Play auto-recompile
+[2019.12.08-15.42.19:442][701]LogPlayLevel: [PlayLevel] Compiling Jugador before play...
+[2019.12.08-15.42.19:901][701]LogPlayLevel: PlayLevel: Blueprint regeneration took 459 ms (1 blueprints)
+[2019.12.08-15.42.19:901][701]PIE: New page: PIE session: nivel1 (Dec 8, 2019, 5:42:19 PM)
+[2019.12.08-15.42.19:901][701]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_nivel1
+[2019.12.08-15.42.19:908][701]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006715s)
+[2019.12.08-15.42.19:909][701]LogAIModule: Creating AISystem for world nivel1
+[2019.12.08-15.42.19:909][701]LogPlayLevel: PIE: World Init took: (0.001266s)
+[2019.12.08-15.42.19:910][701]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/nivel1.nivel1 to /Game/UEDPIE_0_nivel1.nivel1 (0.008478s)
+[2019.12.08-15.42.19:965][701]LogInit: XAudio2 using 'Altavoces (Conexant SmartAudio HD)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.12.08-15.42.19:989][701]LogInit: FAudioDevice initialized.
+[2019.12.08-15.42.20:040][701]LogLoad: Game class is 'MiModoDeJuego_C'
+[2019.12.08-15.42.20:043][701]LogWorld: Bringing World /Game/UEDPIE_0_nivel1.nivel1 up for play (max tick rate 60) at 2019.12.08-16.42.20
+[2019.12.08-15.42.20:044][701]LogWorld: Bringing up level for play took: 0.002934
+[2019.12.08-15.42.20:053][701]PIE: Info Play in editor start time for /Game/UEDPIE_0_nivel1 1.393
+[2019.12.08-15.42.34:686][ 24]LogTemp: Repeting last play command: Selected Viewport
+[2019.12.08-15.42.34:726][ 24]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.12.08-15.42.34:726][ 24]PIE: New page: PIE session: nivel1 (Dec 8, 2019, 5:42:34 PM)
+[2019.12.08-15.42.34:727][ 24]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_nivel1
+[2019.12.08-15.42.34:736][ 24]LogPlayLevel: PIE: StaticDuplicateObject took: (0.009301s)
+[2019.12.08-15.42.34:737][ 24]LogAIModule: Creating AISystem for world nivel1
+[2019.12.08-15.42.34:737][ 24]LogPlayLevel: PIE: World Init took: (0.001030s)
+[2019.12.08-15.42.34:738][ 24]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/nivel1.nivel1 to /Game/UEDPIE_0_nivel1.nivel1 (0.010695s)
+[2019.12.08-15.42.34:811][ 24]LogInit: XAudio2 using 'Altavoces (Conexant SmartAudio HD)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.12.08-15.42.34:837][ 24]LogInit: FAudioDevice initialized.
+[2019.12.08-15.42.34:892][ 24]LogLoad: Game class is 'MiModoDeJuego_C'
+[2019.12.08-15.42.34:895][ 24]LogWorld: Bringing World /Game/UEDPIE_0_nivel1.nivel1 up for play (max tick rate 60) at 2019.12.08-16.42.34
+[2019.12.08-15.42.34:896][ 24]LogWorld: Bringing up level for play took: 0.003171
+[2019.12.08-15.42.34:906][ 24]PIE: Info Play in editor start time for /Game/UEDPIE_0_nivel1 0.245
+[2019.12.08-15.43.46:731][728]LogTemp: Repeting last play command: Selected Viewport
+[2019.12.08-15.43.46:766][728]BlueprintLog: New page: Pre-Play auto-recompile
+[2019.12.08-15.43.46:766][728]LogPlayLevel: [PlayLevel] Compiling Jugador before play...
+[2019.12.08-15.43.47:461][728]LogPlayLevel: PlayLevel: Blueprint regeneration took 695 ms (1 blueprints)
+[2019.12.08-15.43.47:461][728]PIE: New page: PIE session: nivel1 (Dec 8, 2019, 5:43:47 PM)
+[2019.12.08-15.43.47:462][728]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_nivel1
+[2019.12.08-15.43.47:468][728]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005930s)
+[2019.12.08-15.43.47:483][728]LogAIModule: Creating AISystem for world nivel1
+[2019.12.08-15.43.47:483][728]LogPlayLevel: PIE: World Init took: (0.015433s)
+[2019.12.08-15.43.47:484][728]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/nivel1.nivel1 to /Game/UEDPIE_0_nivel1.nivel1 (0.021672s)
+[2019.12.08-15.43.47:537][728]LogInit: XAudio2 using 'Altavoces (Conexant SmartAudio HD)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.12.08-15.43.47:559][728]LogInit: FAudioDevice initialized.
+[2019.12.08-15.43.47:612][728]LogLoad: Game class is 'MiModoDeJuego_C'
+[2019.12.08-15.43.47:615][728]LogWorld: Bringing World /Game/UEDPIE_0_nivel1.nivel1 up for play (max tick rate 60) at 2019.12.08-16.43.47
+[2019.12.08-15.43.47:616][728]LogWorld: Bringing up level for play took: 0.002818
+[2019.12.08-15.43.47:625][728]PIE: Info Play in editor start time for /Game/UEDPIE_0_nivel1 0.964
+[2019.12.08-15.43.54:405][836]LogNet: Browse: /Game/nivel1
+[2019.12.08-15.43.54:443][836]LogLoad: LoadMap: /Game/nivel1
+[2019.12.08-15.43.54:525][836]Cmd: MEM
+[2019.12.08-15.43.54:575][836]LogMemory: Platform Memory Stats for Windows
+[2019.12.08-15.43.54:575][836]LogMemory: Process Physical Memory: 2352.73 MB used, 2689.88 MB peak
+[2019.12.08-15.43.54:575][836]LogMemory: Process Virtual Memory: 6611.20 MB used, 6627.92 MB peak
+[2019.12.08-15.43.54:575][836]LogMemory: Physical Memory: 6746.26 MB used,  1351.64 MB free, 8097.91 MB total
+[2019.12.08-15.43.54:575][836]LogMemory: Virtual Memory: 11821.77 MB used,  1351.64 MB free, 134217728.00 MB total
+[2019.12.08-15.43.54:575][836]LogMemory: 
+[2019.12.08-15.43.54:575][836]Allocator Stats for TBB: (not implemented)
+[2019.12.08-15.43.54:575][836]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_nivel1
+[2019.12.08-15.43.54:581][836]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005819s)
+[2019.12.08-15.43.54:582][836]LogAIModule: Creating AISystem for world nivel1
+[2019.12.08-15.43.54:582][836]LogPlayLevel: PIE: World Init took: (0.000796s)
+[2019.12.08-15.43.54:582][836]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/nivel1.nivel1 to /Game/UEDPIE_0_nivel1.nivel1 (0.006906s)
+[2019.12.08-15.43.54:582][836]LogLoad: Game class is 'MiModoDeJuego_C'
+[2019.12.08-15.43.54:584][836]LogWorld: Bringing World /Game/UEDPIE_0_nivel1.nivel1 up for play (max tick rate 60) at 2019.12.08-16.43.54
+[2019.12.08-15.43.54:584][836]LogWorld: Bringing up level for play took: 0.001658
+[2019.12.08-15.43.54:589][836]LogLoad: Took 0.145213 seconds to LoadMap(/Game/UEDPIE_0_nivel1)
+[2019.12.08-15.44.24:534][291]LogTemp: Repeting last play command: Selected Viewport
+[2019.12.08-15.44.24:569][291]BlueprintLog: New page: Pre-Play auto-recompile
+[2019.12.08-15.44.24:570][291]LogPlayLevel: [PlayLevel] Compiling Jugador before play...
+[2019.12.08-15.44.25:149][291]LogPlayLevel: PlayLevel: Blueprint regeneration took 579 ms (1 blueprints)
+[2019.12.08-15.44.25:149][291]PIE: New page: PIE session: nivel1 (Dec 8, 2019, 5:44:25 PM)
+[2019.12.08-15.44.25:149][291]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_nivel1
+[2019.12.08-15.44.25:155][291]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005793s)
+[2019.12.08-15.44.25:155][291]LogAIModule: Creating AISystem for world nivel1
+[2019.12.08-15.44.25:156][291]LogPlayLevel: PIE: World Init took: (0.000761s)
+[2019.12.08-15.44.25:156][291]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/nivel1.nivel1 to /Game/UEDPIE_0_nivel1.nivel1 (0.006764s)
+[2019.12.08-15.44.25:204][291]LogInit: XAudio2 using 'Altavoces (Conexant SmartAudio HD)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.12.08-15.44.25:223][291]LogInit: FAudioDevice initialized.
+[2019.12.08-15.44.25:273][291]LogLoad: Game class is 'MiModoDeJuego_C'
+[2019.12.08-15.44.25:275][291]LogWorld: Bringing World /Game/UEDPIE_0_nivel1.nivel1 up for play (max tick rate 60) at 2019.12.08-16.44.25
+[2019.12.08-15.44.25:276][291]LogWorld: Bringing up level for play took: 0.001603
+[2019.12.08-15.44.25:283][291]PIE: Info Play in editor start time for /Game/UEDPIE_0_nivel1 0.622
+[2019.12.08-15.44.43:220][897]LogSavePackage: Save=118.80ms
+[2019.12.08-15.44.43:220][897]LogSavePackage: Moving '../../../../../../Users/Enrique/OneDrive - Universidad de Oviedo/4º Informatica/Videojuegos/Unreal Projects/JuegoVaquero/Saved/Jugador51A0900741D38FC59E1F35B795E989F0.tmp' to '../../../../../../Users/Enrique/OneDrive - Universidad de Oviedo/4º Informatica/Videojuegos/Unreal Projects/JuegoVaquero/Content/StarterContent/Jugador/Jugador.uasset'
+[2019.12.08-15.44.43:228][897]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Enrique/OneDrive - Universidad de Oviedo/4º Informatica/Videojuegos/Unreal Projects/JuegoVaquero/Content/StarterContent/Jugador/Jugador.uasset
+[2019.12.08-15.44.43:870][935]LogTemp: Repeting last play command: Selected Viewport
+[2019.12.08-15.44.43:899][935]BlueprintLog: New page: Pre-Play auto-recompile
+[2019.12.08-15.44.43:899][935]LogPlayLevel: [PlayLevel] Compiling Jugador before play...
+[2019.12.08-15.44.44:802][935]LogPlayLevel: PlayLevel: Blueprint regeneration took 903 ms (1 blueprints)
+[2019.12.08-15.44.44:802][935]PIE: New page: PIE session: nivel1 (Dec 8, 2019, 5:44:44 PM)
+[2019.12.08-15.44.44:802][935]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_nivel1
+[2019.12.08-15.44.44:809][935]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006347s)
+[2019.12.08-15.44.44:810][935]LogAIModule: Creating AISystem for world nivel1
+[2019.12.08-15.44.44:810][935]LogPlayLevel: PIE: World Init took: (0.000984s)
+[2019.12.08-15.44.44:810][935]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/nivel1.nivel1 to /Game/UEDPIE_0_nivel1.nivel1 (0.007610s)
+[2019.12.08-15.44.44:862][935]LogInit: XAudio2 using 'Altavoces (Conexant SmartAudio HD)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.12.08-15.44.44:884][935]LogInit: FAudioDevice initialized.
+[2019.12.08-15.44.44:935][935]LogLoad: Game class is 'MiModoDeJuego_C'
+[2019.12.08-15.44.44:937][935]LogWorld: Bringing World /Game/UEDPIE_0_nivel1.nivel1 up for play (max tick rate 60) at 2019.12.08-16.44.44
+[2019.12.08-15.44.44:938][935]LogWorld: Bringing up level for play took: 0.002654
+[2019.12.08-15.44.44:946][935]PIE: Info Play in editor start time for /Game/UEDPIE_0_nivel1 0.285
+[2019.12.08-15.44.52:997][ 58]LogNet: Browse: /Game/nivel1
+[2019.12.08-15.44.53:037][ 58]LogLoad: LoadMap: /Game/nivel1
+[2019.12.08-15.44.53:115][ 58]Cmd: MEM
+[2019.12.08-15.44.53:183][ 58]LogMemory: Platform Memory Stats for Windows
+[2019.12.08-15.44.53:183][ 58]LogMemory: Process Physical Memory: 2376.27 MB used, 2689.88 MB peak
+[2019.12.08-15.44.53:183][ 58]LogMemory: Process Virtual Memory: 6623.70 MB used, 6667.72 MB peak
+[2019.12.08-15.44.53:183][ 58]LogMemory: Physical Memory: 6763.83 MB used,  1334.08 MB free, 8097.91 MB total
+[2019.12.08-15.44.53:183][ 58]LogMemory: Virtual Memory: 11837.84 MB used,  1334.08 MB free, 134217728.00 MB total
+[2019.12.08-15.44.53:183][ 58]LogMemory: 
+[2019.12.08-15.44.53:183][ 58]Allocator Stats for TBB: (not implemented)
+[2019.12.08-15.44.53:183][ 58]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_nivel1
+[2019.12.08-15.44.53:191][ 58]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007885s)
+[2019.12.08-15.44.53:192][ 58]LogAIModule: Creating AISystem for world nivel1
+[2019.12.08-15.44.53:192][ 58]LogPlayLevel: PIE: World Init took: (0.001058s)
+[2019.12.08-15.44.53:192][ 58]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/nivel1.nivel1 to /Game/UEDPIE_0_nivel1.nivel1 (0.009323s)
+[2019.12.08-15.44.53:193][ 58]LogLoad: Game class is 'MiModoDeJuego_C'
+[2019.12.08-15.44.53:195][ 58]LogWorld: Bringing World /Game/UEDPIE_0_nivel1.nivel1 up for play (max tick rate 60) at 2019.12.08-16.44.53
+[2019.12.08-15.44.53:196][ 58]LogWorld: Bringing up level for play took: 0.002475
+[2019.12.08-15.44.53:202][ 58]LogLoad: Took 0.165094 seconds to LoadMap(/Game/UEDPIE_0_nivel1)
+[2019.12.08-15.46.02:947][267]LogTemp: Repeting last play command: Selected Viewport
+[2019.12.08-15.46.02:990][267]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.12.08-15.46.02:990][267]PIE: New page: PIE session: nivel1 (Dec 8, 2019, 5:46:02 PM)
+[2019.12.08-15.46.02:991][267]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_nivel1
+[2019.12.08-15.46.02:998][267]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006949s)
+[2019.12.08-15.46.02:999][267]LogAIModule: Creating AISystem for world nivel1
+[2019.12.08-15.46.02:999][267]LogPlayLevel: PIE: World Init took: (0.001194s)
+[2019.12.08-15.46.02:999][267]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/nivel1.nivel1 to /Game/UEDPIE_0_nivel1.nivel1 (0.008466s)
+[2019.12.08-15.46.03:064][267]LogInit: XAudio2 using 'Altavoces (Conexant SmartAudio HD)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.12.08-15.46.03:086][267]LogInit: FAudioDevice initialized.
+[2019.12.08-15.46.03:136][267]LogLoad: Game class is 'MiModoDeJuego_C'
+[2019.12.08-15.46.03:139][267]LogWorld: Bringing World /Game/UEDPIE_0_nivel1.nivel1 up for play (max tick rate 60) at 2019.12.08-16.46.03
+[2019.12.08-15.46.03:139][267]LogWorld: Bringing up level for play took: 0.002408
+[2019.12.08-15.46.03:149][267]PIE: Info Play in editor start time for /Game/UEDPIE_0_nivel1 0.488
+[2019.12.08-15.46.37:919][104]LogNet: Browse: /Game/nivel1
+[2019.12.08-15.46.37:958][104]LogLoad: LoadMap: /Game/nivel1
+[2019.12.08-15.46.38:064][104]Cmd: MEM
+[2019.12.08-15.46.38:127][104]LogMemory: Platform Memory Stats for Windows
+[2019.12.08-15.46.38:127][104]LogMemory: Process Physical Memory: 2089.33 MB used, 2689.88 MB peak
+[2019.12.08-15.46.38:127][104]LogMemory: Process Virtual Memory: 6353.46 MB used, 6680.22 MB peak
+[2019.12.08-15.46.38:127][104]LogMemory: Physical Memory: 6389.10 MB used,  1708.80 MB free, 8097.91 MB total
+[2019.12.08-15.46.38:127][104]LogMemory: Virtual Memory: 11853.84 MB used,  1708.80 MB free, 134217728.00 MB total
+[2019.12.08-15.46.38:127][104]LogMemory: 
+[2019.12.08-15.46.38:127][104]Allocator Stats for TBB: (not implemented)
+[2019.12.08-15.46.38:127][104]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_nivel1
+[2019.12.08-15.46.38:136][104]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008237s)
+[2019.12.08-15.46.38:137][104]LogAIModule: Creating AISystem for world nivel1
+[2019.12.08-15.46.38:137][104]LogPlayLevel: PIE: World Init took: (0.001354s)
+[2019.12.08-15.46.38:137][104]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/nivel1.nivel1 to /Game/UEDPIE_0_nivel1.nivel1 (0.009948s)
+[2019.12.08-15.46.38:137][104]LogLoad: Game class is 'MiModoDeJuego_C'
+[2019.12.08-15.46.38:140][104]LogWorld: Bringing World /Game/UEDPIE_0_nivel1.nivel1 up for play (max tick rate 60) at 2019.12.08-16.46.38
+[2019.12.08-15.46.38:141][104]LogWorld: Bringing up level for play took: 0.002959
+[2019.12.08-15.46.38:147][104]LogLoad: Took 0.189387 seconds to LoadMap(/Game/UEDPIE_0_nivel1)
+[2019.12.08-15.47.03:979][727]LogNet: Browse: /Game/nivel1
+[2019.12.08-15.47.04:019][727]LogLoad: LoadMap: /Game/nivel1
+[2019.12.08-15.47.04:150][727]Cmd: MEM
+[2019.12.08-15.47.04:230][727]LogMemory: Platform Memory Stats for Windows
+[2019.12.08-15.47.04:230][727]LogMemory: Process Physical Memory: 1648.76 MB used, 2689.88 MB peak
+[2019.12.08-15.47.04:230][727]LogMemory: Process Virtual Memory: 6353.52 MB used, 6680.22 MB peak
+[2019.12.08-15.47.04:230][727]LogMemory: Physical Memory: 6015.53 MB used,  2082.38 MB free, 8097.91 MB total
+[2019.12.08-15.47.04:230][727]LogMemory: Virtual Memory: 11885.96 MB used,  2082.38 MB free, 134217728.00 MB total
+[2019.12.08-15.47.04:230][727]LogMemory: 
+[2019.12.08-15.47.04:230][727]Allocator Stats for TBB: (not implemented)
+[2019.12.08-15.47.04:230][727]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_nivel1
+[2019.12.08-15.47.04:239][727]LogPlayLevel: PIE: StaticDuplicateObject took: (0.009125s)
+[2019.12.08-15.47.04:240][727]LogAIModule: Creating AISystem for world nivel1
+[2019.12.08-15.47.04:240][727]LogPlayLevel: PIE: World Init took: (0.001098s)
+[2019.12.08-15.47.04:240][727]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/nivel1.nivel1 to /Game/UEDPIE_0_nivel1.nivel1 (0.010575s)
+[2019.12.08-15.47.04:241][727]LogLoad: Game class is 'MiModoDeJuego_C'
+[2019.12.08-15.47.04:244][727]LogWorld: Bringing World /Game/UEDPIE_0_nivel1.nivel1 up for play (max tick rate 60) at 2019.12.08-16.47.04
+[2019.12.08-15.47.04:244][727]LogWorld: Bringing up level for play took: 0.002738
+[2019.12.08-15.47.04:251][727]LogLoad: Took 0.232130 seconds to LoadMap(/Game/UEDPIE_0_nivel1)
+[2019.12.08-15.47.49:348][841]LogNet: Browse: /Game/nivel1
+[2019.12.08-15.47.49:385][841]LogLoad: LoadMap: /Game/nivel1
+[2019.12.08-15.47.49:508][841]Cmd: MEM
+[2019.12.08-15.47.49:568][841]LogMemory: Platform Memory Stats for Windows
+[2019.12.08-15.47.49:568][841]LogMemory: Process Physical Memory: 1653.16 MB used, 2689.88 MB peak
+[2019.12.08-15.47.49:568][841]LogMemory: Process Virtual Memory: 6353.41 MB used, 6680.22 MB peak
+[2019.12.08-15.47.49:568][841]LogMemory: Physical Memory: 6028.28 MB used,  2069.63 MB free, 8097.91 MB total
+[2019.12.08-15.47.49:568][841]LogMemory: Virtual Memory: 11869.90 MB used,  2069.63 MB free, 134217728.00 MB total
+[2019.12.08-15.47.49:568][841]LogMemory: 
+[2019.12.08-15.47.49:568][841]Allocator Stats for TBB: (not implemented)
+[2019.12.08-15.47.49:568][841]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_nivel1
+[2019.12.08-15.47.49:575][841]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007219s)
+[2019.12.08-15.47.49:576][841]LogAIModule: Creating AISystem for world nivel1
+[2019.12.08-15.47.49:577][841]LogPlayLevel: PIE: World Init took: (0.001166s)
+[2019.12.08-15.47.49:577][841]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/nivel1.nivel1 to /Game/UEDPIE_0_nivel1.nivel1 (0.008711s)
+[2019.12.08-15.47.49:577][841]LogLoad: Game class is 'MiModoDeJuego_C'
+[2019.12.08-15.47.49:580][841]LogWorld: Bringing World /Game/UEDPIE_0_nivel1.nivel1 up for play (max tick rate 60) at 2019.12.08-16.47.49
+[2019.12.08-15.47.49:581][841]LogWorld: Bringing up level for play took: 0.002624
+[2019.12.08-15.47.49:585][841]LogLoad: Took 0.200272 seconds to LoadMap(/Game/UEDPIE_0_nivel1)
+[2019.12.08-15.51.30:749][462]LogSavePackage: Save=37.74ms
+[2019.12.08-15.51.30:749][462]LogSavePackage: Moving '../../../../../../Users/Enrique/OneDrive - Universidad de Oviedo/4º Informatica/Videojuegos/Unreal Projects/JuegoVaquero/Saved/PlataformaSalto7ECFE7FC4A1DFB1F4A0AC1BCD11804AF.tmp' to '../../../../../../Users/Enrique/OneDrive - Universidad de Oviedo/4º Informatica/Videojuegos/Unreal Projects/JuegoVaquero/Content/StarterContent/Jugador/PlataformaSalto.uasset'
+[2019.12.08-15.51.30:759][462]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Enrique/OneDrive - Universidad de Oviedo/4º Informatica/Videojuegos/Unreal Projects/JuegoVaquero/Content/StarterContent/Jugador/PlataformaSalto.uasset
+[2019.12.08-15.52.12:336][105]LogSavePackage: Save=92.27ms
+[2019.12.08-15.52.12:336][105]LogSavePackage: Moving '../../../../../../Users/Enrique/OneDrive - Universidad de Oviedo/4º Informatica/Videojuegos/Unreal Projects/JuegoVaquero/Saved/nivel1_Auto7C539A424402C533EF784AFB5F136D715.tmp' to '../../../../../../Users/Enrique/OneDrive - Universidad de Oviedo/4º Informatica/Videojuegos/Unreal Projects/JuegoVaquero/Saved/Autosaves/Game/nivel1_Auto7.umap'
+[2019.12.08-15.52.12:340][105]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Enrique/OneDrive - Universidad de Oviedo/4º Informatica/Videojuegos/Unreal Projects/JuegoVaquero/Saved/Autosaves/Game/nivel1_Auto7.umap
+[2019.12.08-15.52.12:343][105]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/nivel1' took 0.239
+[2019.12.08-15.52.12:343][105]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.239
+[2019.12.08-15.52.12:349][105]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/StarterContent/Jugador/PlataformaRalentizadora] ([1] browsable assets)...
+[2019.12.08-15.52.12:390][105]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/StarterContent/Jugador/PlataformaRalentizadora.PlataformaRalentizadora]
+[2019.12.08-15.52.12:390][105]OBJ SavePackage: Finished generating thumbnails for package [/Game/StarterContent/Jugador/PlataformaRalentizadora]
+[2019.12.08-15.52.12:456][105]LogSavePackage: Save=44.83ms
+[2019.12.08-15.52.12:456][105]LogSavePackage: Moving '../../../../../../Users/Enrique/OneDrive - Universidad de Oviedo/4º Informatica/Videojuegos/Unreal Projects/JuegoVaquero/Saved/PlataformaRalentizadora_Auto7767030A94BAEF9FDE296D39C7623664C.tmp' to '../../../../../../Users/Enrique/OneDrive - Universidad de Oviedo/4º Informatica/Videojuegos/Unreal Projects/JuegoVaquero/Saved/Autosaves/Game/StarterContent/Jugador/PlataformaRalentizadora_Auto7.uasset'
+[2019.12.08-15.52.12:459][105]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Enrique/OneDrive - Universidad de Oviedo/4º Informatica/Videojuegos/Unreal Projects/JuegoVaquero/Saved/Autosaves/Game/StarterContent/Jugador/PlataformaRalentizadora_Auto7.uasset
+[2019.12.08-15.52.12:459][105]LogFileHelpers: Auto-saving content packages took 0.114
+[2019.12.08-15.53.10:038][175]LogTemp: Repeting last play command: Selected Viewport
+[2019.12.08-15.53.10:077][175]BlueprintLog: New page: Pre-Play auto-recompile
+[2019.12.08-15.53.10:077][175]LogPlayLevel: [PlayLevel] Compiling PlataformaSalto before play...
+[2019.12.08-15.53.10:559][175]LogPlayLevel: PlayLevel: Blueprint regeneration took 482 ms (1 blueprints)
+[2019.12.08-15.53.10:559][175]PIE: New page: PIE session: nivel1 (Dec 8, 2019, 5:53:10 PM)
+[2019.12.08-15.53.10:560][175]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_nivel1
+[2019.12.08-15.53.10:568][175]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008300s)
+[2019.12.08-15.53.10:569][175]LogAIModule: Creating AISystem for world nivel1
+[2019.12.08-15.53.10:569][175]LogPlayLevel: PIE: World Init took: (0.001108s)
+[2019.12.08-15.53.10:569][175]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/nivel1.nivel1 to /Game/UEDPIE_0_nivel1.nivel1 (0.009716s)
+[2019.12.08-15.53.10:641][175]LogInit: XAudio2 using 'Altavoces (Conexant SmartAudio HD)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.12.08-15.53.10:670][175]LogInit: FAudioDevice initialized.
+[2019.12.08-15.53.10:719][175]LogLoad: Game class is 'MiModoDeJuego_C'
+[2019.12.08-15.53.10:722][175]LogWorld: Bringing World /Game/UEDPIE_0_nivel1.nivel1 up for play (max tick rate 60) at 2019.12.08-16.53.10
+[2019.12.08-15.53.10:723][175]LogWorld: Bringing up level for play took: 0.002843
+[2019.12.08-15.53.10:731][175]PIE: Info Play in editor start time for /Game/UEDPIE_0_nivel1 0.07
+[2019.12.08-15.53.18:067][408]Cmd: SELECT NONE
+[2019.12.08-15.53.18:818][436]Cmd: SELECT NONE
+[2019.12.08-15.53.20:848][506]Cmd: TRANSACTION UNDO
+[2019.12.08-15.53.20:848][506]LogEditorTransaction: Undo Select Brush Surface
+[2019.12.08-15.53.23:381][589]Cmd: TRANSACTION UNDO
+[2019.12.08-15.53.23:381][589]LogEditorTransaction: Undo Select None
+[2019.12.08-15.53.24:914][646]Cmd: TRANSACTION UNDO
+[2019.12.08-15.53.24:914][646]LogEditorTransaction: Undo Select None
+[2019.12.08-15.53.26:013][686]Cmd: TRANSACTION UNDO
+[2019.12.08-15.53.26:014][686]LogEditorTransaction: Undo Create Actors
+[2019.12.08-15.53.41:655][163]LogActorComponent: ReregisterComponent: (/Game/nivel1.nivel1:PersistentLevel.PlataformaSalto_C_349.StaticMesh) Not currently registered. Aborting.
+[2019.12.08-15.53.45:419][219]LogActorComponent: ReregisterComponent: (/Game/nivel1.nivel1:PersistentLevel.PlataformaSalto_C_349.StaticMesh) Not currently registered. Aborting.
+[2019.12.08-15.53.53:532][460]LogActorComponent: ReregisterComponent: (/Game/nivel1.nivel1:PersistentLevel.PlataformaSalto_C_349.Box) Not currently registered. Aborting.
+[2019.12.08-15.53.56:858][571]LogActorComponent: ReregisterComponent: (/Game/nivel1.nivel1:PersistentLevel.PlataformaSalto_C_349.Box) Not currently registered. Aborting.
+[2019.12.08-15.53.59:399][656]LogActorComponent: ReregisterComponent: (/Game/nivel1.nivel1:PersistentLevel.PlataformaSalto_C_349.Box) Not currently registered. Aborting.
+[2019.12.08-15.53.59:846][671]LogActorComponent: ReregisterComponent: (/Game/nivel1.nivel1:PersistentLevel.PlataformaSalto_C_349.Box) Not currently registered. Aborting.
+[2019.12.08-15.54.01:466][723]LogActorComponent: ReregisterComponent: (/Game/nivel1.nivel1:PersistentLevel.PlataformaSalto_C_349.Box) Not currently registered. Aborting.
+[2019.12.08-15.54.01:795][734]LogActorComponent: ReregisterComponent: (/Game/nivel1.nivel1:PersistentLevel.PlataformaSalto_C_349.Box) Not currently registered. Aborting.
+[2019.12.08-15.54.10:063][155]LogActorComponent: ReregisterComponent: (/Game/nivel1.nivel1:PersistentLevel.PlataformaSalto_C_349.Box) Not currently registered. Aborting.
+[2019.12.08-15.54.14:648][429]LogActorComponent: ReregisterComponent: (/Game/nivel1.nivel1:PersistentLevel.PlataformaSalto_C_349.Box) Not currently registered. Aborting.
+[2019.12.08-15.55.19:060][196]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2019.12.08-15.55.22:008][272]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2019.12.08-15.55.38:611][732]LogTemp: Repeting last play command: Selected Viewport
+[2019.12.08-15.55.38:701][732]BlueprintLog: New page: Pre-Play auto-recompile
+[2019.12.08-15.55.38:701][732]LogPlayLevel: [PlayLevel] Compiling PlataformaSalto before play...
+[2019.12.08-15.55.39:236][732]LogPlayLevel: PlayLevel: Blueprint regeneration took 534 ms (1 blueprints)
+[2019.12.08-15.55.39:236][732]PIE: New page: PIE session: nivel1 (Dec 8, 2019, 5:55:39 PM)
+[2019.12.08-15.55.39:236][732]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_nivel1
+[2019.12.08-15.55.39:247][732]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010749s)
+[2019.12.08-15.55.39:248][732]LogAIModule: Creating AISystem for world nivel1
+[2019.12.08-15.55.39:248][732]LogPlayLevel: PIE: World Init took: (0.001190s)
+[2019.12.08-15.55.39:248][732]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/nivel1.nivel1 to /Game/UEDPIE_0_nivel1.nivel1 (0.012214s)
+[2019.12.08-15.55.39:309][732]LogInit: XAudio2 using 'Altavoces (Conexant SmartAudio HD)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.12.08-15.55.39:338][732]LogInit: FAudioDevice initialized.
+[2019.12.08-15.55.39:377][732]LogLoad: Game class is 'MiModoDeJuego_C'
+[2019.12.08-15.55.39:380][732]LogWorld: Bringing World /Game/UEDPIE_0_nivel1.nivel1 up for play (max tick rate 60) at 2019.12.08-16.55.39
+[2019.12.08-15.55.39:381][732]LogWorld: Bringing up level for play took: 0.003214
+[2019.12.08-15.55.39:386][732]PIE: Info Play in editor start time for /Game/UEDPIE_0_nivel1 0.725
+[2019.12.08-15.56.17:364][513]LogNet: Browse: /Game/nivel1
+[2019.12.08-15.56.17:384][513]LogLoad: LoadMap: /Game/nivel1
+[2019.12.08-15.56.17:524][513]Cmd: MEM
+[2019.12.08-15.56.17:578][513]LogMemory: Platform Memory Stats for Windows
+[2019.12.08-15.56.17:578][513]LogMemory: Process Physical Memory: 2262.94 MB used, 2689.88 MB peak
+[2019.12.08-15.56.17:578][513]LogMemory: Process Virtual Memory: 6300.34 MB used, 6680.22 MB peak
+[2019.12.08-15.56.17:578][513]LogMemory: Physical Memory: 6500.57 MB used,  1597.34 MB free, 8097.91 MB total
+[2019.12.08-15.56.17:578][513]LogMemory: Virtual Memory: 11913.63 MB used,  1597.34 MB free, 134217728.00 MB total
+[2019.12.08-15.56.17:578][513]LogMemory: 
+[2019.12.08-15.56.17:578][513]Allocator Stats for TBB: (not implemented)
+[2019.12.08-15.56.17:578][513]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_nivel1
+[2019.12.08-15.56.17:589][513]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010444s)
+[2019.12.08-15.56.17:589][513]LogAIModule: Creating AISystem for world nivel1
+[2019.12.08-15.56.17:590][513]LogPlayLevel: PIE: World Init took: (0.000966s)
+[2019.12.08-15.56.17:590][513]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/nivel1.nivel1 to /Game/UEDPIE_0_nivel1.nivel1 (0.011760s)
+[2019.12.08-15.56.17:590][513]LogLoad: Game class is 'MiModoDeJuego_C'
+[2019.12.08-15.56.17:593][513]LogWorld: Bringing World /Game/UEDPIE_0_nivel1.nivel1 up for play (max tick rate 60) at 2019.12.08-16.56.17
+[2019.12.08-15.56.17:593][513]LogWorld: Bringing up level for play took: 0.002572
+[2019.12.08-15.56.17:598][513]LogLoad: Took 0.213564 seconds to LoadMap(/Game/UEDPIE_0_nivel1)
+[2019.12.08-15.56.35:068][334]LogSavePackage: Save=38.73ms
+[2019.12.08-15.56.35:068][334]LogSavePackage: Moving '../../../../../../Users/Enrique/OneDrive - Universidad de Oviedo/4º Informatica/Videojuegos/Unreal Projects/JuegoVaquero/Saved/PlataformaRalentizadora86F6411B4367D28F2F3BDCB0BD59A25C.tmp' to '../../../../../../Users/Enrique/OneDrive - Universidad de Oviedo/4º Informatica/Videojuegos/Unreal Projects/JuegoVaquero/Content/StarterContent/Jugador/PlataformaRalentizadora.uasset'
+[2019.12.08-15.56.35:079][334]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Enrique/OneDrive - Universidad de Oviedo/4º Informatica/Videojuegos/Unreal Projects/JuegoVaquero/Content/StarterContent/Jugador/PlataformaRalentizadora.uasset
+[2019.12.08-15.57.19:987][823]LogSavePackage: Save=36.09ms
+[2019.12.08-15.57.19:987][823]LogSavePackage: Moving '../../../../../../Users/Enrique/OneDrive - Universidad de Oviedo/4º Informatica/Videojuegos/Unreal Projects/JuegoVaquero/Saved/PlataformaSalto7400CB034C1BEA301DDD1B8A1C214166.tmp' to '../../../../../../Users/Enrique/OneDrive - Universidad de Oviedo/4º Informatica/Videojuegos/Unreal Projects/JuegoVaquero/Content/StarterContent/Jugador/PlataformaSalto.uasset'
+[2019.12.08-15.57.19:997][823]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Enrique/OneDrive - Universidad de Oviedo/4º Informatica/Videojuegos/Unreal Projects/JuegoVaquero/Content/StarterContent/Jugador/PlataformaSalto.uasset
+[2019.12.08-15.57.22:225][912]LogSavePackage: Save=128.38ms
+[2019.12.08-15.57.22:225][912]LogSavePackage: Moving '../../../../../../Users/Enrique/OneDrive - Universidad de Oviedo/4º Informatica/Videojuegos/Unreal Projects/JuegoVaquero/Saved/nivel158E2ADCD4C72DA70982BEA9C7728034D.tmp' to '../../../../../../Users/Enrique/OneDrive - Universidad de Oviedo/4º Informatica/Videojuegos/Unreal Projects/JuegoVaquero/Content/nivel1.umap'
+[2019.12.08-15.57.22:235][912]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Enrique/OneDrive - Universidad de Oviedo/4º Informatica/Videojuegos/Unreal Projects/JuegoVaquero/Content/nivel1.umap
+[2019.12.08-15.57.24:210][991]LogTemp: Repeting last play command: Selected Viewport
+[2019.12.08-15.57.24:291][991]BlueprintLog: New page: Pre-Play auto-recompile
+[2019.12.08-15.57.24:291][991]LogPlayLevel: [PlayLevel] Compiling PlataformaSalto before play...
+[2019.12.08-15.57.24:552][991]LogPlayLevel: PlayLevel: Blueprint regeneration took 260 ms (1 blueprints)
+[2019.12.08-15.57.24:552][991]PIE: New page: PIE session: nivel1 (Dec 8, 2019, 5:57:24 PM)
+[2019.12.08-15.57.24:552][991]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_nivel1
+[2019.12.08-15.57.24:559][991]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006890s)
+[2019.12.08-15.57.24:560][991]LogAIModule: Creating AISystem for world nivel1
+[2019.12.08-15.57.24:560][991]LogPlayLevel: PIE: World Init took: (0.000974s)
+[2019.12.08-15.57.24:561][991]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/nivel1.nivel1 to /Game/UEDPIE_0_nivel1.nivel1 (0.008169s)
+[2019.12.08-15.57.24:619][991]LogInit: XAudio2 using 'Altavoces (Conexant SmartAudio HD)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.12.08-15.57.24:646][991]LogInit: FAudioDevice initialized.
+[2019.12.08-15.57.24:684][991]LogLoad: Game class is 'MiModoDeJuego_C'
+[2019.12.08-15.57.24:687][991]LogWorld: Bringing World /Game/UEDPIE_0_nivel1.nivel1 up for play (max tick rate 60) at 2019.12.08-16.57.24
+[2019.12.08-15.57.24:688][991]LogWorld: Bringing up level for play took: 0.003166
+[2019.12.08-15.57.24:693][991]PIE: Info Play in editor start time for /Game/UEDPIE_0_nivel1 0.032
+[2019.12.08-15.57.30:704][264]LogNet: Browse: /Game/nivel1
+[2019.12.08-15.57.30:723][264]LogLoad: LoadMap: /Game/nivel1
+[2019.12.08-15.57.30:794][264]Cmd: MEM
+[2019.12.08-15.57.30:853][264]LogMemory: Platform Memory Stats for Windows
+[2019.12.08-15.57.30:854][264]LogMemory: Process Physical Memory: 2166.65 MB used, 2689.88 MB peak
+[2019.12.08-15.57.30:854][264]LogMemory: Process Virtual Memory: 6303.56 MB used, 6680.22 MB peak
+[2019.12.08-15.57.30:854][264]LogMemory: Physical Memory: 6431.30 MB used,  1666.61 MB free, 8097.91 MB total
+[2019.12.08-15.57.30:854][264]LogMemory: Virtual Memory: 11905.95 MB used,  1666.61 MB free, 134217728.00 MB total
+[2019.12.08-15.57.30:854][264]LogMemory: 
+[2019.12.08-15.57.30:854][264]Allocator Stats for TBB: (not implemented)
+[2019.12.08-15.57.30:854][264]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_nivel1
+[2019.12.08-15.57.30:861][264]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007218s)
+[2019.12.08-15.57.30:862][264]LogAIModule: Creating AISystem for world nivel1
+[2019.12.08-15.57.30:862][264]LogPlayLevel: PIE: World Init took: (0.001096s)
+[2019.12.08-15.57.30:862][264]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/nivel1.nivel1 to /Game/UEDPIE_0_nivel1.nivel1 (0.008640s)
+[2019.12.08-15.57.30:862][264]LogLoad: Game class is 'MiModoDeJuego_C'
+[2019.12.08-15.57.30:866][264]LogWorld: Bringing World /Game/UEDPIE_0_nivel1.nivel1 up for play (max tick rate 60) at 2019.12.08-16.57.30
+[2019.12.08-15.57.30:867][264]LogWorld: Bringing up level for play took: 0.003382
+[2019.12.08-15.57.30:872][264]LogLoad: Took 0.148249 seconds to LoadMap(/Game/UEDPIE_0_nivel1)
+[2019.12.08-15.58.44:264][148]LogTemp: Repeting last play command: Selected Viewport
+[2019.12.08-15.58.44:303][148]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.12.08-15.58.44:303][148]PIE: New page: PIE session: nivel1 (Dec 8, 2019, 5:58:44 PM)
+[2019.12.08-15.58.44:303][148]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_nivel1
+[2019.12.08-15.58.44:311][148]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007738s)
+[2019.12.08-15.58.44:312][148]LogAIModule: Creating AISystem for world nivel1
+[2019.12.08-15.58.44:312][148]LogPlayLevel: PIE: World Init took: (0.001061s)
+[2019.12.08-15.58.44:312][148]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/nivel1.nivel1 to /Game/UEDPIE_0_nivel1.nivel1 (0.009209s)
+[2019.12.08-15.58.44:373][148]LogInit: XAudio2 using 'Altavoces (Conexant SmartAudio HD)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.12.08-15.58.44:397][148]LogInit: FAudioDevice initialized.
+[2019.12.08-15.58.44:443][148]LogLoad: Game class is 'MiModoDeJuego_C'
+[2019.12.08-15.58.44:446][148]LogWorld: Bringing World /Game/UEDPIE_0_nivel1.nivel1 up for play (max tick rate 60) at 2019.12.08-16.58.44
+[2019.12.08-15.58.44:447][148]LogWorld: Bringing up level for play took: 0.002875
+[2019.12.08-15.58.44:455][148]PIE: Info Play in editor start time for /Game/UEDPIE_0_nivel1 -0.205
+[2019.12.08-15.59.03:107][679]LogTemp: Repeting last play command: Selected Viewport
+[2019.12.08-15.59.03:141][679]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.12.08-15.59.03:141][679]PIE: New page: PIE session: nivel1 (Dec 8, 2019, 5:59:03 PM)
+[2019.12.08-15.59.03:141][679]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_nivel1
+[2019.12.08-15.59.03:151][679]LogPlayLevel: PIE: StaticDuplicateObject took: (0.009408s)
+[2019.12.08-15.59.03:151][679]LogAIModule: Creating AISystem for world nivel1
+[2019.12.08-15.59.03:152][679]LogPlayLevel: PIE: World Init took: (0.001085s)
+[2019.12.08-15.59.03:152][679]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/nivel1.nivel1 to /Game/UEDPIE_0_nivel1.nivel1 (0.010850s)
+[2019.12.08-15.59.03:222][679]LogInit: XAudio2 using 'Altavoces (Conexant SmartAudio HD)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.12.08-15.59.03:250][679]LogInit: FAudioDevice initialized.
+[2019.12.08-15.59.03:299][679]LogLoad: Game class is 'MiModoDeJuego_C'
+[2019.12.08-15.59.03:302][679]LogWorld: Bringing World /Game/UEDPIE_0_nivel1.nivel1 up for play (max tick rate 60) at 2019.12.08-16.59.03
+[2019.12.08-15.59.03:302][679]LogWorld: Bringing up level for play took: 0.002213
+[2019.12.08-15.59.03:309][679]PIE: Info Play in editor start time for /Game/UEDPIE_0_nivel1 0.648
